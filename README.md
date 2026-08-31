@@ -87,6 +87,12 @@ motto: "First make it work, then make it right, then make it fast."
 
 <img src="https://github-readme-stats-samuelsr20010-3339s-projects.vercel.app/api/top-langs/?username=Samsr2001&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" width="30%" />
 
+<br/><br/>
+
+### 🏆 `$ cat trophies.log`
+
+<img src="https://github-profile-trophy.vercel.app/?username=Samsr2001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="100%" />
+
 </div>
 
 ---
