@@ -59,9 +59,22 @@ fun_fact: "I've touched Assembly and lived to tell the tale"
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Samsr2001&theme=tokyonight&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="60%" />
-</a>
+<img src="https://github-readme-stats-samuelsr20010-3339s-projects.vercel.app/api?username=Samsr2001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
+<img src="https://streak-stats.demolab.com?user=Samsr2001&theme=tokyonight&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-stats-samuelsr20010-3339s-projects.vercel.app/api/top-langs/?username=Samsr2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" width="40%" />
+
+</div>
+
+---
+
+### 🏗️ Featured Projects
+
+<div align="center">
+
+[![Simulador-Computador-Digital](https://github-readme-stats-samuelsr20010-3339s-projects.vercel.app/api/pin/?username=Samsr2001&repo=Simulador-Computador-Digital&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF)](https://github.com/Samsr2001/Simulador-Computador-Digital)
 
 </div>
 
