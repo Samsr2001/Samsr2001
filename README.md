@@ -31,7 +31,7 @@ motto: "First make it work, then make it right, then make it fast."
 ```
 
 <div align="center">
-  <a href="mailto:samuelsr20010@gmail.com">
+  <a href="mailto:samuelsilva.code@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank">
