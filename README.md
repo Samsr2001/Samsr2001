@@ -50,7 +50,6 @@ fun_fact: "I've touched Assembly and lived to tell the tale"
 #### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/Workbench-00758F?style=flat-square&logo=mysql&logoColor=white)
 
 </div>
 
