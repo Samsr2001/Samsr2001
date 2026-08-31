@@ -8,7 +8,7 @@
 
 ---
 
-### 🧬 $ cat about_me.yaml
+### 🧬 `$ cat about_me.yaml`
 
 ```yaml
 name: Samuel Silva
@@ -32,7 +32,7 @@ motto: "First make it work, then make it right, then make it fast."
 
 ---
 
-### ⚡ $ echo $TECH_STACK
+### ⚡ `$ echo $TECH_STACK`
 
 <div align="center">
 
@@ -67,7 +67,7 @@ motto: "First make it work, then make it right, then make it fast."
 
 ---
 
-### 📊 $ git log --stat
+### 📊 `$ git log --stat`
 
 <div align="center">
 
@@ -82,7 +82,7 @@ motto: "First make it work, then make it right, then make it fast."
 
 ---
 
-### 🏗️ $ ls ~/projects
+### 🏗️ `$ ls ~/projects`
 
 <div align="center">
 
