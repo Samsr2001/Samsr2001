@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=60&lines=Building+robust+systems+from+low-level+up+%F0%9F%94%A7;From+C+to+APIs+%E2%80%94+full+stack+thinker+%F0%9F%A7%A0;Clean+code+%7C+Solid+foundations+%F0%9F%8F%97%EF%B8%8F)](https://github.com/Samsr2001)
 
-<img src="https://komarev.com/ghpvc/?username=Samsr2001&style=for-the-badge&color=0d1117&labelColor=0d1117&label=PROFILE+VIEWS" />
-
 </div>
 
 ---
@@ -14,7 +12,7 @@
 
 ```yaml
 name: Samuel Silva
-location: Venezuela 🇻🇪
+location: Venezuela
 education:
   degree: Computer Engineering
   university: UNEG
