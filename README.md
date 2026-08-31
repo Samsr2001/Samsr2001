@@ -59,31 +59,9 @@ fun_fact: "I've touched Assembly and lived to tell the tale"
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Samsr2001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Samsr2001&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Samsr2001&theme=tokyonight&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-  <img src="https://streak-stats.demolab.com?user=Samsr2001&theme=tokyonight&hide_border=true" width="48%" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Samsr2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Samsr2001&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</picture>
-
-</div>
-
----
-
-### 🏗️ Featured Projects
-
-<div align="center">
-
-[![Simulador-Computador-Digital](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Samsr2001&repo=Simulador-Computador-Digital&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF)](https://github.com/Samsr2001/Simulador-Computador-Digital)
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Samsr2001&theme=tokyonight&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="60%" />
+</a>
 
 </div>
 
