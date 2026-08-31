@@ -1,61 +1,88 @@
 <div align="center">
 
-# `>_ Hello World`
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Samuel%20Silva&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Engineering%20•%207th%20Semester%20•%20UNEG&descSize=16&descAlignY=55)
 
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Backend+%26+Systems+Enthusiast;Always+learning%2C+always+building" alt="Typing SVG" />
-
-</div>
-
-## 🖥️ `system_status --verbose`
-
-```
-[SYSTEM]  : Booting profile for Samuel Silva...
-[STATUS]  : 🎓 7th Semester | Computer Engineering (UNEG)
-[LOG]     : Compiling knowledge... ██████████░░ 70%
-[TARGET]  : Backend Development & Systems Programming
-```
-
----
-
-## ⚡ `ls /bin/tools`
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-| Category | Tech Stack |
-|----------|------------|
-| **Languages** | Java, Python, C, C++, SQL |
-| **Databases** | MySQL, MongoDB |
-| **Runtime** | Node.js |
-| **Tools** | Git, MySQL Workbench |
-
----
-
-## 📊 `git log --oneline`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Samsr2001&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samsr2001&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" width="40%" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+robust+systems+from+low-level+up+%F0%9F%94%A7;From+Assembly+to+APIs+%E2%80%94+full+stack+thinker+%F0%9F%A7%A0)](https://github.com/Samsr2001)
 
 </div>
 
 ---
 
+### 🧬 About Me
+
+```yaml
+name: Samuel Silva
+location: Venezuela 🇻🇪
+education:
+  degree: Computer Engineering
+  university: UNEG
+  semester: 7th
+interests:
+  - Backend architecture
+  - Systems programming
+  - Database design
+currently_learning:
+  - MongoDB
+  - Node.js ecosystem
+fun_fact: "I've touched Assembly and lived to tell the tale"
+```
+
+---
+
+### 🧰 Tech Arsenal
+
 <div align="center">
 
-```
-[LOG] : Session active. Building the future, one commit at a time.
-```
+#### Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Samsr2001-181717?style=flat-square&logo=github)](https://github.com/Samsr2001)
+#### Backend & Runtime
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+#### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/Workbench-00758F?style=flat-square&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Samsr2001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samsr2001&theme=tokyonight&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samsr2001&theme=tokyo-night&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=C9D1D9" width="98%" />
+
+</div>
+
+---
+
+### 🏗️ Featured Projects
+
+<div align="center">
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Samsr2001&repo=Simulador-Computador-Digital&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF)](https://github.com/Samsr2001/Simulador-Computador-Digital)
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
